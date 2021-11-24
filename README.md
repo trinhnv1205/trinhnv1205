@@ -4,11 +4,23 @@
 
 ```vue
 <template>
-  <div>Trinh Ryan</div>
+  <div>{{message}}</div>
 </template>
 
 <script>
-
+export default {
+  name: 'trinhryan',
+  data(){
+    return {
+      message: 'Dotnet Developer!'
+      skills: [
+        'C#',
+        'Vue',
+        'Js'
+      ]
+    }
+  }
+}
 </script>
 ```
 
