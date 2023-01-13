@@ -4,6 +4,7 @@
 <p>Welcome to my page! </br> I'm TRINHNV, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width="13"/> <b>NAM DINH, VN</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width="13"/> <b>HANOI, VN</b>. </p>
 <h3>Things I code with</h3>
 <p>
+  <img alt="Webpack" src="https://img.shields.io/badge/C%23-csharp-violet?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
