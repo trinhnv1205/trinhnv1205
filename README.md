@@ -5,8 +5,9 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=trinhnv1205&show_icons=true&theme=radical" alt="trinhnv" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhnv1205&layout=compact&theme=radical" alt="trinhnv" />
+    <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=trinhnv1205&show_icons=true&theme=radical" alt="trinhnv" />
+    <img style="width: 100%"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhnv1205&layout=compact&theme=radical" alt="trinhnv" />
 </p>
 
 
