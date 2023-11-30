@@ -1,8 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm TRINHNV, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width="13"/> <b>NAM DINH, VN</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width="13"/> <b>HANOI, VN</b>. </p>
-<h3>Things I code with</h3>
+<p>Welcome to my page!</p> <p>I'm TRINHNV, a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width="13"/> <b>Nam Dinh, Vietnam</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/555/555515.png" width="13"/> <b>Hanoi, Vietnam</b>.</p> <h3>Technologies I work with</h3>
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-violet?style=flat-square&logo=csharp&logoColor=white"/>
   <img alt="Asp.net" src="https://img.shields.io/badge/asp.net-violet?style=flat-square&logo=asp.net&logoColor=white" /> 
