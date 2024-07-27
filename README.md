@@ -1,7 +1,7 @@
 
 <h1>TRINHNV | If Want Peace Prepare For War.</h1> 
 
-:muscle: I'm a Fullstack developer from VietNam :vietnam:
+:muscle: Just simple a developer :vietnam:
 
 
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
